@@ -1,3 +1,3 @@
-Welcome to my public workspace.
+##Welcome to my workspace.
 
-Take a look at my projects.
+I am a junior data analyst- take a look at my projects.
